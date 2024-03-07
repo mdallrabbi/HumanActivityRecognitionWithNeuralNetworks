@@ -1024,3 +1024,25 @@ None
 
 ![plot](./Figure_1.png)
 ![plot](./Figure_2.png)# HumanActivityRecognitionWithNeuralNetworks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+CORE PAPER : https://www.kaggle.com/code/fahadmehfoooz/human-activity-recognition-with-neural-networks
+
+```
